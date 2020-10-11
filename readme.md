@@ -1,4 +1,4 @@
-# Responsive Website 
+# Responsive Card design with HTML & CSS
 
 In this responsive card design the DOM structure is like that:
 
