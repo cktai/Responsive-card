@@ -2,7 +2,7 @@
 
 ![](UPsFiR4.png)
 
-In this responsive card design the DOM structure is like that:
+## In this responsive card design the DOM structure is this:
 
 main>container>imag and text container
 
