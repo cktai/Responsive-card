@@ -1,5 +1,7 @@
 # Responsive Card design with HTML & CSS
 
+![](UPsFiR4.png)
+
 In this responsive card design the DOM structure is like that:
 
 main>container>imag and text container
