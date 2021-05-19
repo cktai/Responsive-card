@@ -8,6 +8,12 @@ body {
   margin: 0;
   padding: 0;
 }
+
+.main-title{
+  color: red;
+  font-size: 18px;
+}
+
 html {
   font-family: "Poppins", sans-serif;
   box-sizing: border-box;
